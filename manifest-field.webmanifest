@@ -1,0 +1,21 @@
+{
+ "name": "한담 현장",
+ "short_name": "한담 현장",
+ "start_url": "/field/",
+ "scope": "/field/",
+ "display": "standalone",
+ "background_color": "#2c343f",
+ "theme_color": "#2c343f",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
